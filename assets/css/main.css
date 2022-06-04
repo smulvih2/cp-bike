@@ -1719,6 +1719,12 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	section.special ul {
+		text-align: left;
+		margin-left: auto;
+		display: inline-block;
+	}
+
 	header.major {
 		padding-bottom: 2em;
 	}
